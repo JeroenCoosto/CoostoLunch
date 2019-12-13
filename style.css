@@ -9,7 +9,11 @@ body {
     width: 100%;
     height: 400px;
   }
-
+.surveyInput {
+  height: 200px;
+  
+  width: 100%;
+}
 
 .fas {
   font-size:24px

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="30px" viewBox="0 0 23 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-industry</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-327.000000, -103.000000)" fill="#2FA7DF">
+            <g id="icn-industry" transform="translate(318.000000, 98.000000)">
+                <g id="Group-2" transform="translate(9.000000, 5.000000)">
+                    <path d="M0,29.8169388 L22.5987105,29.8169388 L22.5987105,0 L0,0 L0,29.8169388 Z M4.91231579,28.8214286 L21.6157632,28.8214286 L21.6157632,0.995510204 L4.91231579,0.995510204 L4.91231579,28.8214286 Z M0.983552632,28.8214286 L3.92815789,28.8214286 L3.92815789,0.995510204 L0.983552632,0.995510204 L0.983552632,28.8214286 Z" id="Fill-1"></path>
+                    <path d="M8.35323684,10.9334694 L18.1784737,10.9334694 L18.1784737,5.9644898 L8.35323684,5.9644898 L8.35323684,10.9334694 Z M7.36968421,11.9259184 L19.1596053,11.9259184 L19.1596053,4.96897959 L7.36968421,4.96897959 L7.36968421,11.9259184 Z" id="Fill-2"></path>
+                    <polygon id="Fill-3" points="9.82584211 7.95122449 16.7028421 7.95122449 16.7028421 6.95632653 9.82584211 6.95632653"></polygon>
+                    <polygon id="Fill-4" points="9.82584211 9.93918367 16.7028421 9.93918367 16.7028421 8.94428571 9.82584211 8.94428571"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
